@@ -45,7 +45,7 @@
     "grunt-exec": "1.0.0",
     "grunt-release": "0.13.0",
     "istanbul": "^0.4.3",
-    "jasmine": "^2.4.1",
+    "jasmine": "^2.5.2",
     "jasmine-spec-reporter": "^2.4.0",
     "proxyquire": "1.7.10",
     "sinon": "^1.17.5",
